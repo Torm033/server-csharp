@@ -1,7 +1,7 @@
 {
   "BossLocationSpawn": [
     {
-      "BossChance": 0,
+      "BossChance": 100,
       "BossDifficult": "normal",
       "BossEscortAmount": "0,0,0,0,2,2,2,1,1,1,1,1,0,2,3",
       "BossEscortDifficult": "normal",
@@ -22,7 +22,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 0,
+      "BossChance": 100,
       "BossDifficult": "normal",
       "BossEscortAmount": "0,0,0,0,2,2,2,1,1,1,1,1,0,2,3",
       "BossEscortDifficult": "normal",
@@ -43,7 +43,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 0,
+      "BossChance": 100,
       "BossDifficult": "normal",
       "BossEscortAmount": "0,0,0,0,2,2,2,1,1,1,1,1,0,2,3",
       "BossEscortDifficult": "normal",
@@ -64,7 +64,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 0,
+      "BossChance": 100,
       "BossDifficult": "normal",
       "BossEscortAmount": "0,0,0,0,2,2,2,1,1,1,1,1,0,2,3",
       "BossEscortDifficult": "normal",
@@ -108,7 +108,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "normal",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -160,7 +160,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "easy",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -212,7 +212,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "easy",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -264,7 +264,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "normal",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -316,7 +316,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "easy",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -368,7 +368,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "normal",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -420,7 +420,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "easy",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -524,7 +524,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "easy",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -576,7 +576,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "normal",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -628,7 +628,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "normal",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -680,7 +680,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "easy",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -836,7 +836,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "normal",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -888,7 +888,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "easy",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -940,7 +940,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "easy",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -992,7 +992,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "easy",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -1044,7 +1044,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "normal",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
@@ -1096,7 +1096,7 @@
       "TriggerName": ""
     },
     {
-      "BossChance": 100,
+      "BossChance": 75,
       "BossDifficult": "normal",
       "BossEscortAmount": "3,4,5",
       "BossEscortDifficult": "normal",
